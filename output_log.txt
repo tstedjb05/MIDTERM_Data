@@ -1,0 +1,332 @@
+Initialize engine version: 5.5.2f1 (3829d7f588f3)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 960M (ID=0x139b)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+    Driver:   10.18.15.4271
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\USER\Desktop\MIDTERM_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\USER\Desktop\MIDTERM_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\USER\Desktop\MIDTERM_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\USER\Desktop\MIDTERM_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\USER\Desktop\MIDTERM_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\USER\Desktop\MIDTERM_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\USER\Desktop\MIDTERM_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\USER\Desktop\MIDTERM_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\USER\Desktop\MIDTERM_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading C:\Users\USER\Desktop\MIDTERM_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+- Completed reload, in  0.054 seconds
+Platform assembly: C:\Users\USER\Desktop\MIDTERM_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\USER\Desktop\MIDTERM_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.211654 ms
+Initialize engine version: 5.5.2f1 (3829d7f588f3)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 960M (ID=0x139b)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+    Driver:   10.18.15.4271
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\USER\Desktop\MIDTERM_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\USER\Desktop\MIDTERM_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\USER\Desktop\MIDTERM_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\USER\Desktop\MIDTERM_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\USER\Desktop\MIDTERM_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\USER\Desktop\MIDTERM_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\USER\Desktop\MIDTERM_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\USER\Desktop\MIDTERM_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\USER\Desktop\MIDTERM_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading C:\Users\USER\Desktop\MIDTERM_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+- Completed reload, in  0.023 seconds
+Platform assembly: C:\Users\USER\Desktop\MIDTERM_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\USER\Desktop\MIDTERM_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.228642 ms
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.167506 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 362.
+Total: 0.341333 ms (FindLiveObjects: 0.098765 ms CreateObjectMapping: 0.011851 ms MarkObjects: 0.225975 ms  DeleteObjects: 0.004345 ms)
+
+Network configuration mismatch detected. The number of networked scripts on the client does not match the number of networked scripts on the server. This could be caused by lazy loading of scripts on the client. This warning can be disabled by the checkbox in NetworkManager Script CRC Check.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+CRC Local Dump Wall : 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+CRC Remote Dump Wall : 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.377679 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 353.
+Total: 0.451950 ms (FindLiveObjects: 0.039506 ms CreateObjectMapping: 0.052938 ms MarkObjects: 0.353185 ms  DeleteObjects: 0.005530 ms)
+
+RPC Function Rpcreslovehit called on client.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RPC Function Rpcreslovehit called on client.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RPC Function Rpcreslovehit called on client.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RPC Function Rpcreslovehit called on client.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RPC Function Rpcreslovehit called on client.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RPC Function Rpcreslovehit called on client.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RPC Function Rpcreslovehit called on client.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RPC Function Rpcreslovehit called on client.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RPC Function Rpcreslovehit called on client.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RPC Function Rpcreslovehit called on client.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RPC Function Rpcreslovehit called on client.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RPC Function Rpcreslovehit called on client.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RPC Function Rpcreslovehit called on client.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RPC Function Rpcreslovehit called on client.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RPC Function Rpcreslovehit called on client.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RPC Function Rpcreslovehit called on client.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RPC Function Rpcreslovehit called on client.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RPC Function Rpcreslovehit called on client.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RPC Function Rpcreslovehit called on client.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RPC Function Rpcreslovehit called on client.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RPC Function Rpcreslovehit called on client.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RPC Function Rpcreslovehit called on client.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RPC Function Rpcreslovehit called on client.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RPC Function Rpcreslovehit called on client.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RPC Function Rpcreslovehit called on client.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RPC Function Rpcreslovehit called on client.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RPC Function Rpcreslovehit called on client.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RPC Function Rpcreslovehit called on client.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RPC Function Rpcreslovehit called on client.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RPC Function Rpcreslovehit called on client.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RPC Function Rpcreslovehit called on client.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RPC Function Rpcreslovehit called on client.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RPC Function Rpcreslovehit called on client.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RPC Function Rpcreslovehit called on client.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RPC Function Rpcreslovehit called on client.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RPC Function Rpcreslovehit called on client.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RPC Function Rpcreslovehit called on client.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RPC Function Rpcreslovehit called on client.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RPC Function Rpcreslovehit called on client.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RPC Function Rpcreslovehit called on client.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RPC Function Rpcreslovehit called on client.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RPC Function Rpcreslovehit called on client.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RPC Function Rpcreslovehit called on client.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RPC Function Rpcreslovehit called on client.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RPC Function Rpcreslovehit called on client.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RPC Function Rpcreslovehit called on client.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RPC Function Rpcreslovehit called on client.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RPC Function Rpcreslovehit called on client.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RPC Function Rpcreslovehit called on client.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RPC Function Rpcreslovehit called on client.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RPC Function Rpcreslovehit called on client.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RPC Function Rpcreslovehit called on client.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RPC Function Rpcreslovehit called on client.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RPC Function Rpcreslovehit called on client.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RPC Function Rpcreslovehit called on client.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RPC Function Rpcreslovehit called on client.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RPC Function Rpcreslovehit called on client.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RPC Function Rpcreslovehit called on client.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Log: connection {1} has been disconnected by timeout; address {::ffff:127.0.0.1:7777}
+Log: connection {1} has been disconnected by timeout; address {::ffff:127.0.0.1:55323}
+ServerDisconnected due to error: Timeout
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+ClientDisconnected due to error: Timeout
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+UnloadTime: 6.499953 ms
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 288.
+Total: 0.354370 ms (FindLiveObjects: 0.021333 ms CreateObjectMapping: 0.019358 ms MarkObjects: 0.271802 ms  DeleteObjects: 0.041481 ms)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 2c68 -> priority: 1 
+  Thread -> id: 1c2c -> priority: 1 
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 1708 -> priority: 1 
+  Thread -> id: 2d88 -> priority: 1 
